@@ -25,7 +25,7 @@ This project analyses retail sales data using Power BI to provide insights into 
 ---
 
 ## 📷 Dashboard Preview
-Screenshot 2026-03-16 211905.png
+![Dashboard](dashboard_Screenshot 2026-03-16 211905.png)
 
 ---
 
