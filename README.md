@@ -33,6 +33,7 @@ This project analyses retail sales data using Power BI to provide insights into 
 - Revenue shows steady growth over time
 - Accessories generate the highest order volume
 - Some high-selling products also have higher return rates
+- Monthly returns up slightly (+1.78%)
 
 ---
 
