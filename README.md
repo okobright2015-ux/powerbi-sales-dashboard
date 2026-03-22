@@ -50,7 +50,7 @@ Key steps included:
 - Structuring data for efficient analysis  
 
 ## Example DAX Measures
-DAX
+``DAX
 Total Revenue = SUM(Sales[SalesAmount])
 
 Total Profit = SUM(Sales[Profit])
