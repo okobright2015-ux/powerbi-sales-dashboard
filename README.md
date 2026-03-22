@@ -34,7 +34,7 @@ This project analyses retail sales data using Power BI to provide insights into 
 ![Products](dashboard_products.png)
 
 ### Customer Insights
-![Customers](dashboard_customers.png)
+![Customers](dashboard_customer.png)
 
 ---
 
