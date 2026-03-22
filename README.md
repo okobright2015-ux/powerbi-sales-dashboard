@@ -49,8 +49,8 @@ Key steps included:
 - Developing calculated columns and measures  
 - Structuring data for efficient analysis  
 
-### Example DAX Measures
-```DAX
+## Example DAX Measures
+DAX
 Total Revenue = SUM(Sales[SalesAmount])
 
 Total Profit = SUM(Sales[Profit])
