@@ -65,6 +65,11 @@ Return Rate = DIVIDE([Returned Orders], [Total Orders])
 ![Customers](dashboard_customer.png)
 
 ---
+## 📈 Revenue Trend Analysis
+Visualises revenue over time
+Identifies growth patterns and seasonality
+Includes trendline for long-term direction
+---
 
 ## 📈 Key Insights
 - Revenue shows steady growth over time
@@ -73,7 +78,15 @@ Return Rate = DIVIDE([Returned Orders], [Total Orders])
 - Monthly returns up slightly (+1.78%)
 
 ---
+##💡 Business Impact
 
+This dashboard demonstrates how data can be used to:
+
+Improve visibility of business performance
+Support faster and more informed decision-making
+Identify operational inefficiencies
+Highlight opportunities for growth and optimisation
+---
 ## 📁 Files
 - `AdventureWorks.pbix` – Power BI dashboard file
 - `dashboard_screenshot.png` – Dashboard preview
