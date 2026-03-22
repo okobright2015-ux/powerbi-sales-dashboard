@@ -78,7 +78,7 @@ Includes trendline for long-term direction
 - Monthly returns up slightly (+1.78%)
 
 ---
-##💡 Business Impact
+## 💡 Business Impact
 
 This dashboard demonstrates how data can be used to:
 
