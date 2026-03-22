@@ -1,27 +1,61 @@
 # powerbi-sales-dashboard
 
-# 📊 AdventureWorks Sales Dashboard (Power BI)
+# 📊 AdventureWorks Sales Performance Dashboard
 
-## 📌 Project Overview
-This project analyses retail sales data using Power BI to provide insights into revenue, profit, product performance and return rates.
+## 🧠 Project Summary
+This project showcases an end-to-end Business Intelligence solution built in Power BI to analyse retail sales performance using the AdventureWorks dataset.
+
+The dashboard was designed to support decision-making by providing clear, interactive insights into revenue trends, product performance, and operational efficiency.
 
 ---
 
-## ❓ Business Questions
+## 🎯 Objectives
+The main goal of this project was to:
+
+- Monitor overall business performance through key KPIs
+- Identify high-performing and underperforming products
+- Analyse sales trends over time
+- Evaluate return rates and potential operational issues
+- Enable stakeholders to make data-driven decisions quickly
+
+---
+
+## ❓ Key Business Questions
+This dashboard answers:
+
 - How is revenue trending over time?
-- Which products generate the most revenue?
-- Which categories perform best?
-- What is the return rate?
+- Which product categories drive the most sales?
+- What are the top-performing products?
+- Which products have high return rates?
+- Are there patterns in order volume over time?
 
 ---
 
-## 🛠 Tools Used
-- Power BI
-- SQL
-- DAX
-- Power Query
-- Excel
+## 🛠️ Tools & Technologies
+- Power BI – Dashboard development & visualisation  
+- DAX – Measures and calculations  
+- Power Query – Data cleaning & transformation  
+- SQL – Data extraction and preparation  
+- Excel – Data validation and exploration  
 
+---
+
+## 🧱 Data Modelling & Transformation
+Data was cleaned and transformed using Power Query before building a structured data model.
+
+Key steps included:
+- Data cleaning and handling missing values  
+- Creating relationships between tables  
+- Developing calculated columns and measures  
+- Structuring data for efficient analysis  
+
+### Example DAX Measures
+```DAX
+Total Revenue = SUM(Sales[SalesAmount])
+
+Total Profit = SUM(Sales[Profit])
+
+Return Rate = DIVIDE([Returned Orders], [Total Orders])
 ---
 
 ## 📷 Dashboard Preview
