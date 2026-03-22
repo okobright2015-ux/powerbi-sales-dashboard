@@ -27,8 +27,8 @@ This project analyses retail sales data using Power BI to provide insights into 
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
 
-### Executive Overview
-![Overview](dashboard_overview.png)
+### Customer Details
+![Dashboard](customer_details.png)
 
 ### Product Performance
 ![Products](dashboard_products.png)
