@@ -67,6 +67,7 @@ Return Rate = DIVIDE([Returned Orders], [Total Orders])
 ### Product Performance
 ![Products](dashboard_product.png)
 
+
 ---
 ## 📈 Revenue Trend Analysis
 Visualises revenue over time
