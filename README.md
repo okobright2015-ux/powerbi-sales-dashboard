@@ -75,6 +75,11 @@ Total Profit = SUM(Sales[Profit])
 - Includes trendline for long-term direction
 ---
 
+## 📅 Monthly Performance Metrics
+- Tracks monthly revenue, orders and returns
+- Enables quick month-on-month comparisons
+---
+
 ## 📈 Key Insights
 - Revenue shows steady growth over time
 - Accessories generate the highest order volume
