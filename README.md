@@ -1,6 +1,6 @@
 # powerbi-sales-dashboard
 
-# 📊 AdventureWorks Sales Performance Dashboard
+# 📊 Sales Performance Dashboard
 
 ## 🧠 Project Summary
 This project showcases an end-to-end Business Intelligence solution built in Power BI to analyse retail sales performance using the AdventureWorks dataset.
