@@ -55,7 +55,7 @@ Total Revenue = SUM(Sales[SalesAmount])
 
 Total Profit = SUM(Sales[Profit])
 
-Return Rate = DIVIDE([Returned Orders], [Total Orders])
+- Return Rate = DIVIDE([Returned Orders], [Total Orders])
 ---
 
 ## 📷 Dashboard Preview
@@ -70,9 +70,9 @@ Return Rate = DIVIDE([Returned Orders], [Total Orders])
 
 ---
 ## 📈 Revenue Trend Analysis
-Visualises revenue over time
-Identifies growth patterns and seasonality
-Includes trendline for long-term direction
+- Visualises revenue over time
+- Identifies growth patterns and seasonality
+- Includes trendline for long-term direction
 ---
 
 ## 📈 Key Insights
@@ -86,10 +86,10 @@ Includes trendline for long-term direction
 
 This dashboard demonstrates how data can be used to:
 
-Improve visibility of business performance
-Support faster and more informed decision-making
-Identify operational inefficiencies
-Highlight opportunities for growth and optimisation
+- Improve visibility of business performance
+- Support faster and more informed decision-making
+- Identify operational inefficiencies
+- Highlight opportunities for growth and optimisation
 ---
 ## 📁 Files
 - `AdventureWorks.pbix` – Power BI dashboard file
